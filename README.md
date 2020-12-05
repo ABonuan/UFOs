@@ -7,25 +7,25 @@ There always has been a divide between people who believe in life beyond earth, 
 ## Results
 The UFO sightings data is displayed as a table that can be filtered by a user's input.  The table shows up as unfiltered when the webpage is first brought up.
 
-![alt]()
+![alt](https://github.com/ABonuan/UFOs/blob/main/resources/UFO_Finder_unfiltered.png?raw=True)
 
 On the bottom left of the page, there is a filter section where the user can filter the data by date, city, state, country and \/ or shape of the UFO sighting.  There is an example of what an entry \(input from user\) should look like for each field.
 
-![alt]()
+![alt](https://github.com/ABonuan/UFOs/blob/main/resources/UFO_Finder_Filter_Search.png?raw=True)
 
 The data can be filtered with a combination of any or all of the filter types.  The user will type in the field, then press Enter.  Here are a couple of examples of how someone can filter the table of UFO Sigthings:
 
 - Filter by Date \(1\/2\/2010\)
 
-![alt]()
+![alt](https://github.com/ABonuan/UFOs/blob/main/resources/UFO_Finder_FilteredbyDate.png?raw=True)
 
 - Filter by Date and State \(1\/2\/2010 and ca\)
 
-![alt]()
+![alt](https://github.com/ABonuan/UFOs/blob/main/resources/UFO_Finder_FilteredbyDateandState.png?raw=True)
 
 The table can also be reset to display all data by clicking "UFO Sightings" on the top left of the page
 
-![alt]()
+![alt](https://github.com/ABonuan/UFOs/blob/main/resources/UFO_Finder_reset_table.png?raw=True)
 
 ## Summary
 A drawback of this webpage is that the data feeding the table is limited and static.  If there are any additional sighting information, the **data** JavaScript file will need to be updated manually.
